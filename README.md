@@ -1,4 +1,4 @@
-# Server_Client_System
+# TCP_Server_Client_System
 - This system is used to send message from a client to the other clients.
 - When a client connected or disconnected, the situation can be seen on the server console screen.
 - In addition, the number of connected clients is shown in every connection or disconnection process on the server console screen.
